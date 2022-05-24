@@ -1,6 +1,6 @@
 {
   "name": "@tr0j332/thermo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "typings": "dist/index",
   "description": "The base module of the NeutriumJS thermodynamics package. Bug fixed by tr0j332",
