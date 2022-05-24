@@ -1,3 +1,6 @@
+**fix bug in dist\EquationOfState.js**
+
+---
 # NeutriumJS.thermo
 
 The base module of the NeutriumJS thermodynamic packages providing definitions for both a thermodynamic state and an equation of state.
