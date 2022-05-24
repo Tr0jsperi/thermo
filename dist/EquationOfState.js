@@ -23,10 +23,8 @@ var EquationOfState = (function () {
             if (matched) {
                 return i;
             }
-            else {
-                return -1;
-            }
         }
+        return -1;
     };
     return EquationOfState;
 }());
