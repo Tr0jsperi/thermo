@@ -1,3 +1,6 @@
+**fix bug in dist\EquationOfState.js**
+
+---
 # NeutriumJS.thermo
 
 The base module of the NeutriumJS thermodynamic packages providing definitions for both a thermodynamic state and an equation of state.
@@ -8,7 +11,7 @@ The base module of the NeutriumJS thermodynamic packages providing definitions f
 
 The thermo module can be installed using npm as follows:
 
-    npm install --save "@neutrium/thermo"
+    npm install --save "@tr0j332/thermo"
 
 ## Donations
 
@@ -18,8 +21,8 @@ NeutriumJS is free software, but you can support the developers by [donating her
 
 | Version | Notes |
 |:-------:|:------|
-| 1.0.0	  | Initial Release |
-| 2.0.0   | Rename package, switch to Typescript and convert to npm module |
+| 0.0.1	  | Bug fix from @neutrium/thermo |
+
 
 ## License
 
