@@ -1,6 +1,6 @@
 {
   "name": "@tr0j332/thermo",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "typings": "dist/index",
   "description": "The base module of the NeutriumJS thermodynamics package. Bug fixed by tr0j332",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/neutrium/thermo.git"
+    "url": "https://github.com/Tr0jsperi/thermo.git"
   },
   "bugs": {
-    "url" : "https://github.com/neutrium/thermo/issues"
+    "url" : "https://github.com/Tr0jsperi/thermo.issues"
   },
   "dependencies": {
     "@neutrium/quantity": "^3.0.2"
